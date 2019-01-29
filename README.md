@@ -22,4 +22,11 @@
 
 | #           | Title   | Topics     | Difficulty  |
 | :---------- | :------ | :--------- | :---------- |
-| 
+|  | 1 | [Two Sum](algorithms/001/README.md) | Array, Hash Table | Easy |
+
+<!-- ## Other
+
+| #    | Title                                                  | Tag                 |
+| :--- | :----------------------------------------------------- | :------------------ |
+|      | [Ksum](algorithms/other/ksum.go)                       | Array, Two Pointers |
+|      | [0/1 knapsack](algorithms/other/knapsack%20problem.go) | Dynamic Programming | -->
