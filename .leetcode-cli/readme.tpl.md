@@ -2,7 +2,7 @@
     <a href="https://github.com/ljun20160606/leetcode"><img src="doc/leetcode.jpeg" width="325"/></a>
 </p>
 
-<p align="center"> <code>Leetcode</code> 的 <code>Golang</code> 解法 😋</p>
+<p align="center"> <code>Leetcode</code> 的 <code>Java</code> 解法 😋</p>
 <p align="center">
     🔥 <a href="#algorithms">Algorithms</a> |
     ✨ <a href="#other">Other</a>
@@ -24,9 +24,9 @@
 | :---------- | :------ | :--------- | :---------- |
 | {{range .}} | {{.ID}} | {{.Title}} | {{.Topics}} | {{.Difficulty}} |
 {{end}}
-## Other
+<!-- ## Other
 
 | #    | Title                                                  | Tag                 |
 | :--- | :----------------------------------------------------- | :------------------ |
 |      | [Ksum](algorithms/other/ksum.go)                       | Array, Two Pointers |
-|      | [0/1 knapsack](algorithms/other/knapsack%20problem.go) | Dynamic Programming |
+|      | [0/1 knapsack](algorithms/other/knapsack%20problem.go) | Dynamic Programming | -->
