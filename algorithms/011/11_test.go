@@ -5,6 +5,6 @@ import (
 	"testing"
 )
 
-func Test{{.ID}}(t *testing.T) {
+func Test11(t *testing.T) {
 	ast := assert.New(t)
 }
