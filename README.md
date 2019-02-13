@@ -24,5 +24,6 @@
 | :---------- | :------ | :--------- | :---------- |
   | 1 | [Two Sum](algorithms/001/README.md) | Array, Hash Table | Easy |
  | 2 | [Add Two Numbers](algorithms/002/README.md) | Linked List, Math | Medium |
+ | 9 | [Palindrome Number](algorithms/009/README.md) | Math | Easy |
  | 11 | [Container With Most Water](algorithms/011/README.md) | Array, Two Pointers | Medium |
 
