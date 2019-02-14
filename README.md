@@ -26,5 +26,6 @@
  | 2 | [Add Two Numbers](algorithms/002/README.md) | Linked List, Math | Medium |
  | 9 | [Palindrome Number](algorithms/009/README.md) | Math | Easy |
  | 11 | [Container With Most Water](algorithms/011/README.md) | Array, Two Pointers | Medium |
+ | 15 | [3Sum](algorithms/015/README.md) | Array, Two Pointers | Medium |
  | 36 | [Valid Sudoku](algorithms/036/README.md) | Hash Table | Medium |
 
